@@ -78,7 +78,8 @@ To verify the certificates, click the images to follow the links.
 **Python Project for Data Science released by Coursera granted approval by IBM This badge recipient exhibits fundamental Python data manipulation abilities. This covers applying Python foundations, dealing with Python data structures, and working with data in Python. It also covers building a dashboard utilizing common Python libraries using a Jupyter notebook, as well as comprehending the role of a Data Scientist or Data Analyst. This badge recipient exhibits fundamental Python data manipulation abilities. This covers applying Python foundations, dealing with Python data structures, and working with data in Python. It also covers building a dashboard utilizing common Python libraries using a Jupyter notebook, as well as comprehending the role of a Data Scientist or Data Analyst.**
 
 <p align="middle">
-   <img  src=
+   <img  src= "https://github.com/user-attachments/assets/b6f0df5b-2576-4370-9818-c43fe372bc2c" height="50"> <br>
+</p>
 
 
 
