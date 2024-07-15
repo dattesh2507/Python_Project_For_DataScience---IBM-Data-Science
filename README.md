@@ -69,6 +69,9 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/3e7b3def4dd455932d098aaa8a4f3e22"><img src=" height="430"></a>
+  <a href="https://coursera.org/share/3e7b3def4dd455932d098aaa8a4f3e22"><img src="https://github.com/user-attachments/assets/2fb86f60-1db8-45fe-ac10-95813ea2605b" height="430"></a>
+
+  <a href= "https://www.credly.com/badges/a2058525-bffe-4d75-a39c-ab410d0f83cc/public_url"><img src= "
+
 
 
