@@ -69,6 +69,6 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/3e7b3def4dd455932d098aaa8a4f3e22" height="430"></a>
+  <a href="https://coursera.org/share/3e7b3def4dd455932d098aaa8a4f3e22"><img src=" height="430"></a>
 
 
